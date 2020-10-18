@@ -1,0 +1,108 @@
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\University Management.exe.config
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\University Management.exe
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\University Management.pdb
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\MainWindow.baml
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\MainWindow.g.cs
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\App.g.cs
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management_MarkupCompile.cache
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management.g.resources
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University_Management.Properties.Resources.resources
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management.csproj.GenerateResource.Cache
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management.exe
+c:\users\talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management.pdb
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\University Management.csprojResolveAssemblyReference.cache
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\MahApps.Metro.dll
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\MahApps.Metro.pdb
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\bin\Debug\MahApps.Metro.xml
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\App.baml
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\login.baml
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\login.g.cs
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\new_student_account.baml
+C:\Users\Talha\documents\visual studio 2012\Projects\University Management\University Management\obj\Debug\new_student_account.g.cs
+D:\Project\University Management\University Management\bin\Debug\University Management.exe.config
+D:\Project\University Management\University Management\obj\Debug\University Management.exe
+D:\Project\University Management\University Management\obj\Debug\University Management.pdb
+D:\Project\University Management\University Management\obj\Debug\University Management.csprojResolveAssemblyReference.cache
+D:\Project\University Management\University Management\obj\Debug\login.baml
+D:\Project\University Management\University Management\obj\Debug\MainWindow.baml
+D:\Project\University Management\University Management\obj\Debug\new_student_account.baml
+D:\Project\University Management\University Management\obj\Debug\App.baml
+D:\Project\University Management\University Management\obj\Debug\login.g.cs
+D:\Project\University Management\University Management\obj\Debug\MainWindow.g.cs
+D:\Project\University Management\University Management\obj\Debug\new_student_account.g.cs
+D:\Project\University Management\University Management\obj\Debug\App.g.cs
+D:\Project\University Management\University Management\obj\Debug\University Management_MarkupCompile.cache
+D:\Project\University Management\University Management\obj\Debug\University Management.g.resources
+D:\Project\University Management\University Management\obj\Debug\University_Management.Properties.Resources.resources
+D:\Project\University Management\University Management\obj\Debug\University Management.csproj.GenerateResource.Cache
+D:\Project\University Management\University Management\bin\Debug\University Management.exe
+D:\Project\University Management\University Management\bin\Debug\University Management.pdb
+D:\Project\University Management\University Management\bin\Debug\MahApps.Metro.dll
+D:\Project\University Management\University Management\bin\Debug\System.Windows.Interactivity.dll
+D:\Project\University Management\University Management\bin\Debug\MahApps.Metro.pdb
+D:\Project\University Management\University Management\bin\Debug\MahApps.Metro.xml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\University Management.exe.config
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management.csprojResolveAssemblyReference.cache
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\login.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\MainWindow.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\new_student_account.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_portal.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_profile.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\App.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\login.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\MainWindow.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\new_student_account.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_portal.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_profile.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\App.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management_MarkupCompile.cache
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management.g.resources
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University_Management.Properties.Resources.resources
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management.csproj.GenerateResource.Cache
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_subject_reg.baml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\student_subject_reg.g.cs
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\University Management.exe
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\University Management.pdb
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\MahApps.Metro.dll
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\System.Windows.Interactivity.dll
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\MahApps.Metro.pdb
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\bin\Debug\MahApps.Metro.xml
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management.exe
+G:\New folder (2)\New folder (2)\Project\University Management\University Management\obj\Debug\University Management.pdb
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\University Management.exe.config
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management.exe
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management.pdb
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\University Management.exe
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\University Management.pdb
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\MahApps.Metro.dll
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\MahApps.Metro.pdb
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\bin\Debug\MahApps.Metro.xml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management.csprojResolveAssemblyReference.cache
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\login.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\MainWindow.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\new_student_account.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_portal.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_profile.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_subject_reg.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\App.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\login.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\MainWindow.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\new_student_account.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_portal.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_profile.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\student_subject_reg.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\App.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management_MarkupCompile.cache
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management.g.resources
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University_Management.Properties.Resources.resources
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\University Management.csproj.GenerateResource.Cache
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\Communicate.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\Communicate.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\group_chat.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\group_chat.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\admin_portal.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\noticeboard.baml
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\admin_portal.g.cs
+C:\Users\Tahmid Ziko\Desktop\University Management\University Management\University Management\obj\Debug\noticeboard.g.cs

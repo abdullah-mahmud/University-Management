@@ -1,0 +1,27 @@
+﻿<Controls:MetroWindow  x:Class="University_Management.group_chat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Group Chat" Height="600" Width="800" BorderThickness="1" GlowBrush="#FF3BBAD6"
+        ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid RenderTransformOrigin="0.335,0.38" >
+        <ScrollViewer x:Name="scrollviewer" VerticalScrollBarVisibility="Auto" Margin="40,56,209,157">
+            <TextBlock x:Name="txt_receive_msg" Background="#FFB3FCFF" FontSize="15" >
+
+            </TextBlock>
+        </ScrollViewer>
+        <TextBlock x:Name="group_list" HorizontalAlignment="Left" Margin="625,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Height="348" Background="#FF96E2BC"/>
+        <TextBox x:Name="txt_send_msg" AcceptsReturn="True" HorizontalAlignment="Left" GotFocus="focus" PreviewKeyDown="keypress" Height="93" Margin="40,434,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="543"/>
+        <Button x:Name="btn_send_msg" Click="btn_send_msg_click"  Content="Send"  HorizontalAlignment="Left" Margin="660,464,0,0" VerticalAlignment="Top" Width="71" Height="32" BorderThickness="0" FontSize="14" Background="#FF4A5AA6" />
+        <Label Content="    Message" HorizontalAlignment="Left" Margin="261,25,0,0" VerticalAlignment="Top" Width="93" FontWeight="Bold"/>
+        <Label Content=" Group List" HorizontalAlignment="Left" Margin="660,33,0,0" VerticalAlignment="Top" Width="71" FontWeight="Bold" RenderTransformOrigin="0.563,1"/>
+        <Button  HorizontalAlignment="Left" Margin="660,10,0,0" VerticalAlignment="Top" Width="75" Click="back_button_click">
+            <Button.Background>
+                <ImageBrush ImageSource="Pics/back.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+
+    </Grid>
+</Controls:MetroWindow>

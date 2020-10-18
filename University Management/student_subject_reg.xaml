@@ -1,0 +1,64 @@
+﻿<Controls:MetroWindow x:Class="University_Management.student_subject_reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:System="clr-namespace:System;assembly=mscorlib"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="University Management" Height="422.795" Width="534.191" WindowStartupLocation="CenterScreen" Icon="Pics/logo.png"
+        ResizeMode="CanMinimize" GlowBrush="#FF0C8181" BorderThickness="1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="79*"/>
+            <ColumnDefinition Width="135*"/>
+            <ColumnDefinition Width="119*"/>
+            <ColumnDefinition Width="72*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="28*"/>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="31*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="27*"/>
+        </Grid.RowDefinitions>
+
+        <Label HorizontalAlignment="Left" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="3" Grid.RowSpan="2" VerticalAlignment="Center" Height="42" Width="318" Margin="4,29,0,29"   >
+            <WrapPanel SnapsToDevicePixels="True" >
+                <TextBlock Text="North Western University" FontSize="25" FontStretch="Normal" Width="288" />
+            </WrapPanel>
+        </Label>
+        <Image Source="Pics/logo.png" Stretch="Uniform" Grid.Column="1" Grid.Row="0" Grid.RowSpan="2" Margin="4,0,2,0" />
+
+        <StatusBar Grid.Row="11" Grid.Column="0" Grid.ColumnSpan="5" Foreground="AliceBlue" Background="#FF45B6BB">
+            <StatusBarItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="University Management v1.0 || " Foreground="#FF0B1D1D" FontStretch="SemiCondensed"></TextBlock>
+                    <TextBlock Foreground="#FF0C2032">
+                    <Hyperlink NavigateUri="">Copyrights© Team AndWin ||</Hyperlink>
+                    </TextBlock >
+                    <TextBlock Text="           "/>
+                    <TextBlock x:Name="txt_clock" Foreground="#FF091927"/>
+                </StackPanel>
+            </StatusBarItem>
+        </StatusBar>
+        <TextBlock x:Name="txtblok_subreg_corsecode" HorizontalAlignment="Left" Grid.Row="2" FontSize="13" TextWrapping="Wrap" Text=" Course Code" VerticalAlignment="Top" Width="88" Height="32" Grid.Column="1" FontWeight="Bold" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtblok_subreg_serial" HorizontalAlignment="Left" Margin="0,1,0,0" Grid.Row="2" TextWrapping="Wrap" Text="    SL NO." VerticalAlignment="Top" Height="31" Width="67" FontWeight="Bold" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtblok_subreg_corsetitle" Grid.Column="2" FontSize="15" Grid.ColumnSpan="2" HorizontalAlignment="Left" Grid.Row="2" TextWrapping="Wrap" Text="                     Course Title" VerticalAlignment="Top" Width="254" Height="32" FontWeight="Bold" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtblok_subreg_remarks" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="2" TextWrapping="Wrap" Text="  Remarks" FontSize="15" VerticalAlignment="Top" Height="32" Width="70" FontWeight="Bold" Grid.RowSpan="2"/>
+        <Button x:Name="btn_subreg_submit" Content="Submit" Grid.Column="3" HorizontalAlignment="Left" Margin="29,4,0,0" Grid.Row="10" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btn_subreg_cancel" Content="Cancel" Grid.Column="3" HorizontalAlignment="Left" Margin="120,4,0,0" Grid.Row="10" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="3" TextWrapping="Wrap" Text="          1." VerticalAlignment="Center" Height="26" Width="75" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="0,1,0,0" Grid.Row="4" TextWrapping="Wrap" Text="          2." VerticalAlignment="Top" Width="75" Height="27" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="5" TextWrapping="Wrap" Text="          3." Width="75" FontWeight="Bold" Margin="0,0,0,1"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="6" TextWrapping="Wrap" Text="          4." VerticalAlignment="Top" Width="75" Height="27" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="7" TextWrapping="Wrap" Text="          5." VerticalAlignment="Top" Width="75" Height="30" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="8" TextWrapping="Wrap" Text="          6." VerticalAlignment="Top" Width="75" Height="29" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="9" TextWrapping="Wrap" Text="          7." VerticalAlignment="Top" Width="75" Height="31" FontWeight="Bold"/>
+    </Grid>
+</Controls:MetroWindow>
